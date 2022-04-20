@@ -1,0 +1,130 @@
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\bin\Debug\LibreriaBD.dll
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csprojAssemblyReference.cache
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.FrmAltaDepartamento.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAltaEmpleado.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAltaEquipo.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.AltaIncidencia.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAsignaIncidencias.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmCalificar.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaDepartamentos.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaEmpleados.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaEquipos.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmEditarPerfil.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmIncidenciasAsignadas.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmLiberaIncidencias.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Login.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Menu.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmverIncidenciasAsignadas.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.INCIDENCIASCREADAS.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.VerIncidencias.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.cache
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csproj.CoreCompileInputs.cache
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csproj.CopyComplete
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Gestion de operaciones ti\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\bin\Debug\LibreriaBD.dll
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csprojAssemblyReference.cache
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.FrmAltaDepartamento.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAltaEmpleado.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAltaEquipo.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.AltaIncidencia.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAsignaIncidencias.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmCalificar.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaDepartamentos.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaEmpleados.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaEquipos.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmEditarPerfil.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmIncidenciasAsignadas.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmLiberaIncidencias.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Login.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Menu.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmverIncidenciasAsignadas.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.INCIDENCIASCREADAS.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.VerIncidencias.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.cache
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csproj.CoreCompileInputs.cache
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csproj.CopyComplete
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmVerIncidenciasXEmpleado.resources
+C:\Users\Jasiel\Pictures\Desktop\Jasiel\Semestre 7\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.MenuPro.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\bin\Debug\LibreriaBD.dll
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csprojAssemblyReference.cache
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.FrmAltaDepartamento.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAltaEmpleado.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAltaEquipo.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.AltaIncidencia.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAsignaIncidencias.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmCalificar.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaDepartamentos.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaEmpleados.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaEquipos.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmEditarPerfil.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmIncidenciasAsignadas.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmLiberaIncidencias.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Login.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Menu.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmverIncidenciasAsignadas.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmVerIncidenciasXEmpleado.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.INCIDENCIASCREADAS.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.MenuPro.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.VerIncidencias.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.cache
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csproj.CoreCompileInputs.cache
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csproj.CopyComplete
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\bin\Debug\Gestion.exe.config
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\bin\Debug\Gestion.exe
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\bin\Debug\Gestion.pdb
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\bin\Debug\LibreriaBD.dll
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csprojAssemblyReference.cache
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAltaCubiculo.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.FrmAltaDepartamento.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAltaEdificio.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAltaEmpleado.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAltaEquipo.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.AltaIncidencia.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAsignaIncidencias.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmCalificar.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaDepartamentos.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaEmpleados.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaEquipos.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmEditarPerfil.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmIncidenciasAsignadas.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmLiberaIncidencias.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Login.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Menu.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmverIncidenciasAsignadas.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmVerIncidenciasXEmpleado.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.INCIDENCIASCREADAS.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.MenuPro.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Properties.Resources.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.VerIncidencias.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csproj.GenerateResource.cache
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csproj.CoreCompileInputs.cache
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.csproj.CopyComplete
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.exe
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.pdb
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaEdificio.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaCubiculo.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmVerIncidenciasXEquipo.resources
+C:\Users\Jasiel\Pictures\Desktop\Edu\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmSolicitudes.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAltaCubiculo.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmAltaEdificio.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaCubiculo.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmConsultaEdificio.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmSolicitudes.resources
+C:\Users\ferch\Desktop\Proyecto Marco completo\Gestion\Gestion\obj\Debug\Gestion.Forms.frmVerIncidenciasXEquipo.resources

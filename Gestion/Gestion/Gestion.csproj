@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A43B31E3-0174-4212-B196-2E4F683BEB37}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Gestion</RootNamespace>
+    <AssemblyName>Gestion</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LibreriaBD">
+      <HintPath>..\LibreriaBD.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\frmAltaCubiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAltaCubiculo.Designer.cs">
+      <DependentUpon>frmAltaCubiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmAltaDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmAltaDepartamento.Designer.cs">
+      <DependentUpon>FrmAltaDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAltaEdificio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAltaEdificio.Designer.cs">
+      <DependentUpon>frmAltaEdificio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAltaEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAltaEquipo.Designer.cs">
+      <DependentUpon>frmAltaEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAsignaIncidencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAsignaIncidencias.Designer.cs">
+      <DependentUpon>frmAsignaIncidencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCalificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCalificar.Designer.cs">
+      <DependentUpon>frmCalificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConsultaCubiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConsultaCubiculo.Designer.cs">
+      <DependentUpon>frmConsultaCubiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConsultaDepartamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConsultaDepartamentos.Designer.cs">
+      <DependentUpon>frmConsultaDepartamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConsultaEdificio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConsultaEdificio.Designer.cs">
+      <DependentUpon>frmConsultaEdificio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConsultaEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConsultaEmpleados.Designer.cs">
+      <DependentUpon>frmConsultaEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConsultaEquipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConsultaEquipos.Designer.cs">
+      <DependentUpon>frmConsultaEquipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEditarPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmEditarPerfil.Designer.cs">
+      <DependentUpon>frmEditarPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmIncidenciasAsignadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmIncidenciasAsignadas.Designer.cs">
+      <DependentUpon>frmIncidenciasAsignadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLiberaIncidencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLiberaIncidencias.Designer.cs">
+      <DependentUpon>frmLiberaIncidencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSolicitudes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSolicitudes.Designer.cs">
+      <DependentUpon>frmSolicitudes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmverIncidenciasAsignadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmverIncidenciasAsignadas.Designer.cs">
+      <DependentUpon>frmverIncidenciasAsignadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmVerIncidenciasXEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmVerIncidenciasXEmpleado.Designer.cs">
+      <DependentUpon>frmVerIncidenciasXEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmVerIncidenciasXEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmVerIncidenciasXEquipo.Designer.cs">
+      <DependentUpon>frmVerIncidenciasXEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\INCIDENCIASCREADAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\INCIDENCIASCREADAS.Designer.cs">
+      <DependentUpon>INCIDENCIASCREADAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MenuPro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MenuPro.Designer.cs">
+      <DependentUpon>MenuPro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manejadora.cs" />
+    <Compile Include="Forms\frmAltaEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAltaEmpleado.Designer.cs">
+      <DependentUpon>frmAltaEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAltaIncidencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAltaIncidencia.Designer.cs">
+      <DependentUpon>frmAltaIncidencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utileria.cs" />
+    <Compile Include="Forms\frmConsultaIncidencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConsultaIncidencias.Designer.cs">
+      <DependentUpon>frmConsultaIncidencias.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\frmAltaCubiculo.resx">
+      <DependentUpon>frmAltaCubiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmAltaDepartamento.resx">
+      <DependentUpon>FrmAltaDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAltaEdificio.resx">
+      <DependentUpon>frmAltaEdificio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAltaEmpleado.resx">
+      <DependentUpon>frmAltaEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAltaEquipo.resx">
+      <DependentUpon>frmAltaEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAltaIncidencia.resx">
+      <DependentUpon>frmAltaIncidencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAsignaIncidencias.resx">
+      <DependentUpon>frmAsignaIncidencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCalificar.resx">
+      <DependentUpon>frmCalificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConsultaCubiculo.resx">
+      <DependentUpon>frmConsultaCubiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConsultaDepartamentos.resx">
+      <DependentUpon>frmConsultaDepartamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConsultaEdificio.resx">
+      <DependentUpon>frmConsultaEdificio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConsultaEmpleados.resx">
+      <DependentUpon>frmConsultaEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConsultaEquipos.resx">
+      <DependentUpon>frmConsultaEquipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEditarPerfil.resx">
+      <DependentUpon>frmEditarPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmIncidenciasAsignadas.resx">
+      <DependentUpon>frmIncidenciasAsignadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLiberaIncidencias.resx">
+      <DependentUpon>frmLiberaIncidencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSolicitudes.resx">
+      <DependentUpon>frmSolicitudes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmverIncidenciasAsignadas.resx">
+      <DependentUpon>frmverIncidenciasAsignadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmVerIncidenciasXEmpleado.resx">
+      <DependentUpon>frmVerIncidenciasXEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmVerIncidenciasXEquipo.resx">
+      <DependentUpon>frmVerIncidenciasXEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\INCIDENCIASCREADAS.resx">
+      <DependentUpon>INCIDENCIASCREADAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MenuPro.resx">
+      <DependentUpon>MenuPro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\frmConsultaIncidencias.resx">
+      <DependentUpon>frmConsultaIncidencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Manejadoras\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
